@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+*.pth
+
+# Virtual environment
+.venv/
+
+# Dataset folders
+data/
+checkpoints/
+foggy_enhanced*.jpg
